@@ -1,0 +1,77 @@
+  v-model methodology:Advantages
+* Simple and easy to use.
+* Testing activities like planning,test designing happens
+  well before coding.This saves alot of time,higher chance
+  of success over the waterfall model.
+* Proactive defects tracking-that is defects are found at an 
+  early stage. 
+* Avoids the downward flow of the defects.
+* Works well for small projects where requirements are easily understood.
+
+  v-model methodology: Disadvantgaes
+* Very rigit.
+* least flexible.
+* Software is developed during the implementation phase, so no early prototypes
+  of the software produced.
+* If any changes happen in midway, then the test documents along with requirements documents 
+  has to be updated.
+* Risky.
+
+  prototyping methodology: Advantages
+* users are actively involved in the development.
+* in this methodology a working model system is provided.
+* errors can be detected much earlier.
+* quicker user feedback is available leading to better solutions.
+* Missing fuctionality can be identified easily.
+
+  prototyping methodology: Disadvatages
+* leads to implementing and then repairing way of building systems.
+* practically, this methodology may increase the complexity of the sysytem.
+* Insufficient analysis. 
+* slow process. 
+* user confusement between PT and final system.
+
+  rapid applications development methodology: Advatages
+* fexible and adaptable to changes.
+* it is useful when you have to reduce the overall project risk.
+* it is easierto transfer scripts high-level abstarctions and inter-
+  mediate codes. 
+* Due to prototyping in nature, there is a possibility of lesser defects.
+* Each phase in RAD delivers highest priority functionality to client. 
+
+  rapid applications development methodology: Disadvantages
+* It can't be used for smaller projects.
+* Not all application is compatible with RAD.
+* When technical risk is high, it is not suitable.
+* If developers are not committed to delivering software on time, RAD projects can fail.
+* Reduced features due to time boxing, where features are pushed to a later version to finish a release in short period.
+
+  Adjile methodology: Advantages
+* Customer satisfaction by rapid, continuous delivery of useful software.
+* People and interactions are emphasized rather than process and tools. Customers, developers and testers constantly interact with each other.
+* Close, daily cooperation between business people and developers.
+* Continuous attention to technical excellence and good design.
+* Regular adaptation to changing circumstances.
+
+  Adjile methodology: Disadvantages
+* In case of some software deliverables, especially the large ones, it is difficult to assess the effort required at the beginning of the software development life cycle.
+* There is lack of emphasis on necessary designing and documentation.
+* The project can easily get taken off track if the customer representative is not clear what final outcome that they want.
+* Only senior programmers are capable of taking the kind of decisions required during the development process. Hence it has no place for newbie programmers, unless combined with experienced resources.
+* Agile Developments also fails at times due to Unrealistic Expectations.
+  
+  waterfall model:Advantages
+* Before the next phase of development, each phase must be completed.
+* Suited for smaller projects where requirements are well defined.
+* Elaborate documentation is done at every phase of the software's development cycle.
+* Any changes in software is made during the process of the development.
+* Project is completely dependent on project team with minimum client intervention.
+
+  
+  waterfall model:Disadvantages
+* Small changes or errors that arise in the completed software may cause a lot of problems.
+* Clients valuable feedback cannot be included with ongoing development phase.
+* Documentation occupies a lot of time of developers and testers.
+* It is not desirable for complex project where requirement changes frequently.
+* Error can be fixed only during the phase.
+  
